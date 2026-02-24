@@ -2,8 +2,8 @@
                  BILLING SUMMARY
 =========================================================
 Date: Mon Feb 23 23:46:08 2026
-Author: LOVE FOBI
-Index: 01240239D
+Author: ENOCH KWABENA TETTEH
+Index: 01240720D
 Course: EEE 227
 ---------------------------------------------------------
 Tariff: GHS 0.15 per kWh
